@@ -4,7 +4,7 @@ from agent.graph import build_graph
 
 async def main():
     input_state={
-        "messages":[{"role":"user","content":"How much did I spend on food last month?"}],
+        "messages":[{"role":"user","content":"place an order for 1 AAPL stock and give summary as well"}],
         "portfolio_data": {},
         "budget_context": "",
         "awaiting_approval": False}
