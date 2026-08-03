@@ -1,0 +1,37 @@
+date,description,amount,category,type
+2026-01-01,Opening Balance,5000.00,balance,credit
+2026-01-02,Salary Deposit,3500.00,income,credit
+2026-01-05,Rent Payment,-1200.00,housing,debit
+2026-01-07,Grocery Store,-85.50,food,debit
+2026-01-10,Netflix,-15.99,subscriptions,debit
+2026-01-12,Restaurant,-45.00,food,debit
+2026-01-15,Electricity Bill,-120.00,utilities,debit
+2026-01-18,Grocery Store,-92.30,food,debit
+2026-01-20,Gym Membership,-50.00,health,debit
+2026-01-22,Restaurant,-38.00,food,debit
+2026-01-25,Spotify,-9.99,subscriptions,debit
+2026-01-28,Grocery Store,-78.40,food,debit
+2026-02-01,Salary Deposit,3500.00,income,credit
+2026-02-03,Rent Payment,-1200.00,housing,debit
+2026-02-05,Restaurant,-62.00,food,debit
+2026-02-08,Grocery Store,-95.20,food,debit
+2026-02-10,Netflix,-15.99,subscriptions,debit
+2026-02-14,Valentine Dinner,-120.00,food,debit
+2026-02-15,Electricity Bill,-135.00,utilities,debit
+2026-02-18,Grocery Store,-88.70,food,debit
+2026-02-20,Gym Membership,-50.00,health,debit
+2026-02-22,Spotify,-9.99,subscriptions,debit
+2026-02-25,Online Shopping,-156.00,shopping,debit
+2026-02-28,Grocery Store,-72.10,food,debit
+2026-03-01,Salary Deposit,3500.00,income,credit
+2026-03-03,Rent Payment,-1200.00,housing,debit
+2026-03-05,Grocery Store,-91.40,food,debit
+2026-03-08,Restaurant,-55.00,food,debit
+2026-03-10,Netflix,-15.99,subscriptions,debit
+2026-03-12,Electricity Bill,-118.00,utilities,debit
+2026-03-15,Grocery Store,-83.60,food,debit
+2026-03-18,Gym Membership,-50.00,health,debit
+2026-03-20,Spotify,-9.99,subscriptions,debit
+2026-03-22,Restaurant,-72.00,food,debit
+2026-03-25,Online Shopping,-89.00,shopping,debit
+2026-03-28,Grocery Store,-76.30,food,debit
